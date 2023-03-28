@@ -1,0 +1,36 @@
+{
+  "Programming languages": [
+    { "title": "C++", "level": "Advanced" },
+    { "title": "Solidity", "level": "Intermediate" },
+    { "title": "Java", "level": "Advanced" },
+    { "title": "Go Lang", "level": "Intermediate" },
+    { "title": "Javascript", "level": "Intermediate" },
+    { "title": "Python", "level": "Advanced" },
+    { "title": "Shell", "level": "Advanced" }
+  ],
+  "Frameworks and libraries": [
+    { "title": "Next.JS", "level": "Advanced" },
+    { "title": "Gin", "level": "Intermediate" },
+    { "title": "Django", "level": "Advanced" },
+    { "title": "Docker", "level": "Advanced" },
+    { "title": "Kubernetes", "level": "Intermediate" },
+    { "title": "Node.JS", "level": "Intermediate" },
+    { "title": "Express.JS", "level": "Intermediate" },
+    { "title": "Hardhat", "level": "Intermediate" },
+    { "title": "Brownie", "level": "Intermediate" },
+    { "title": "Flask", "level": "Advanced" }
+  ],
+  "Servers, Databases and Cloud Hosting": [
+    { "title": "Jenkins", "level": "Advanced" },
+    { "title": "NGINX", "level": "Advanced" },
+    { "title": "MySQL", "level": "Advanced" },
+    { "title": "Postgres", "level": "Advanced" },
+    { "title": "Redis", "level": "Intermediate" },
+    { "title": "Firebase", "level": "Intermediate" },
+    { "title": "Linode", "level": "Advanced" },
+    { "title": "Heroku", "level": "Advanced" },
+    { "title": "Vercel", "level": "Advanced" },
+    { "title": "RabbitMQ", "level": "Intermediate" },
+    { "title": "Home Assistant", "level": "Advanced" }
+  ]
+}
